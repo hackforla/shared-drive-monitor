@@ -4,8 +4,8 @@
 
 ### Project context
 This project was developed after repeated incidents of accidental high-volume file deletions by users with Manager access. Many third-party tools priced monitoring on a per-user basis, making them cost-prohibitive. By leveraging Google Apps Script and Sheets, this system is free to run within Google Workspace quotas.  
-[Full background and context document] 
-[Code of Conduct](https://www.hackforla.org/code-of-conduct/)
+- [Full background and context document] 
+- [Code of Conduct](https://www.hackforla.org/code-of-conduct/)
 
 ### Technology used
 - [Google Apps Script](https://developers.google.com/apps-script) — automation logic and API calls  
